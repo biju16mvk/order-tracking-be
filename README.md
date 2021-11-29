@@ -2,6 +2,8 @@ This is a small application written in Node.JS for providing data to a FE applic
 
 ## To run this app run the following commands after cloning/download the repository
 
+#### `Make sure you have Node JS installed in your system`
+
 ### `cd order-tracking-be`
 ### `npm install`
 ### `npm run dev`
